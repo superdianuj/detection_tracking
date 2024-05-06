@@ -1,0 +1,1 @@
+This work utilizes several open source repos on YOLO based detection and tracking (using DeepSORT), in a crude and lazy manner, to serve as reference. Furthermore, it exposes a fundamental problem with detection and tracking. Detection is significantly better than tracking, and occlusion very easily seeps over time within a video.

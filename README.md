@@ -4,7 +4,7 @@ Following are the models used in the repos: [Models](https://drive.google.com/dr
 
 Following are the resultant video output comparison.
 
-| No. | Video Link |
+| No. | Video Results|
 | --- | --- |
 | 1 | [Reference Video](https://www.youtube.com/watch?v=video1link) |
 | 2 | [Video Output: occlusion 1_1](https://www.youtube.com/watch?v=video2link) |

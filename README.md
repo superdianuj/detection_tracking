@@ -8,7 +8,7 @@ Following are the resultant video output comparison.
 | --- | --- | ---|
 | 1 | [Reference Video](https://drive.google.com/file/d/1yzGkAY5VL9DgqHQvqoD82B7uk5iH4iOC/view?usp=drive_link) |![Screenshot from 2024-05-06 23-04-04](https://github.com/superdianuj/yolo_detection_tracking/assets/47445756/7ee95078-72f9-4911-9fbf-9cc4d29f9f3c)|
 
-| 2 | [Video Output: occlusion 1_1](https://drive.google.com/file/d/1Ug5vJEnenUpNxhOXQBZnxf9L8zsTkBMg/view?usp=drive_link)  |![image](https://github.com/superdianuj/yolo_detection_tracking/assets/47445756/ae9c7aab-598a-44ff-8837-35bb0d869793)|
+| 2 | [Video Output: occlusion 1_1](https://drive.google.com/file/d/1Ug5vJEnenUpNxhOXQBZnxf9L8zsTkBMg/view?usp=drive_link) |![image](https://github.com/superdianuj/yolo_detection_tracking/assets/47445756/ae9c7aab-598a-44ff-8837-35bb0d869793)|
 
 | 3 | [Video Output: occlusion 1_2](https://drive.google.com/file/d/1n_Vb1XphDr3c8DBkBLwKsrWKduSc-hSR/view?usp=sharing) | ![image](https://github.com/superdianuj/yolo_detection_tracking/assets/47445756/b1db6114-97c5-4914-b2e9-48a58a22baf6) |
 

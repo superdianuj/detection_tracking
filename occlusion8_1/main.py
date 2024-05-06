@@ -122,9 +122,9 @@ parser.add_argument(
 args = parser.parse_args()
 
 model = YOLO(args.model_name, device=args.device)
-
+output_path = "ref_video_out.mp4"
 for input_path in args.files:
-    video = Video(input_path=input_path)
+    video = Video(input_path=input_path, output_path=output_path)
 
     distance_function = "iou" if args.track_points == "bbox" else "euclidean"
     distance_threshold = (

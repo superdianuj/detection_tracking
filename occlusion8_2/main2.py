@@ -11,9 +11,9 @@ cfg.merge_from_file("rcnn.yaml")
 cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.5
 cfg.MODEL.WEIGHTS = "detectron2://COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x/137849600/model_final_f10217.pkl"
 detector = DefaultPredictor(cfg)
-
+output_path = "ref_vid_out_2.mp4"
 # Norfair
-video = Video(input_path="ref_vid.mp4")
+video = Video(input_path="ref_vid.mp4", output_path=output_path)
 tracker = Tracker(distance_function="euclidean", distance_threshold=20)
 
 for frame in video:

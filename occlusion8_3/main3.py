@@ -191,6 +191,7 @@ def run():
 
     use_fixed_camera = args.fixed_camera_scale > 0
     tracked_objects = []
+    output_path = "ref_video_out_3.mp4"
     # Process Videos
     for input_path in args.files:
         if args.transformation == "homography":
@@ -217,7 +218,7 @@ def run():
         if args.draw_paths:
             path_drawer = AbsolutePaths(max_history=args.path_history, thickness=2)
 
-        video = Video(input_path=input_path)
+        video = Video(input_path=input_path, output_path=output_path)
         show_or_write = (
             video.write
             if args.save

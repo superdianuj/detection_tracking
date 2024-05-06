@@ -19,8 +19,7 @@ Following are the resultant video output comparison.
 | 11 | [Videeo Output: occlusion 6](https://drive.google.com/file/d/1o9IFlLkDAicNgqeT9kV_WlAc1FH-k3Vi/view?usp=drive_link) |
 | 12 | [Videeo Output: occlusion 7](https://drive.google.com/file/d/1gfqsDs4gSgNPWhYa-j9wOgPmQYYkBqZF/view?usp=drive_link) |
 | 13| [Videeo Output: occlusion 8_1](https://drive.google.com/file/d/1hjh8ltkx3Egg83SGUN5JnCzmta2u8_c8/view?usp=drive_link) |
-| 13| [Videeo Output: occlusion 8_2](https://drive.google.com/file/d/1FUc0WuZ7uI4Bpuw7HNMPOyqMyqiK4LPk/view?usp=drive_link) |
-| 13| [Videeo Output: occlusion 8_3](https://drive.google.com/file/d/1FUc0WuZ7uI4Bpuw7HNMPOyqMyqiK4LPk/view?usp=drive_link) |
-| 14 | [Videeo Output: occlusion 9](https://drive.google.com/file/d/1WbbhJUEWV40VMWnH7zKjXpzdHBzG5T0x/view?usp=drive_link) |
-| 15 | [Videeo Output: occlusion 10](https://drive.google.com/file/d/1ryT92frW-jCgkbNFDcAATd8jeGEiubzS/view?usp=drive_link) |
-| 15 | [Videeo Output: occlusion 11](https://drive.google.com/file/d/1X7nF1e1Fsq2t2hGHPQgQRqFRl4JLvqty/view?usp=drive_link) |
+| 14| [Videeo Output: occlusion 8_2](https://drive.google.com/file/d/1_xbGXlVg9vqLKkqF7gRWSNOUAsUSIrih/view?usp=drive_link) |
+| 15 | [Videeo Output: occlusion 9](https://drive.google.com/file/d/1WbbhJUEWV40VMWnH7zKjXpzdHBzG5T0x/view?usp=drive_link) |
+| 16 | [Videeo Output: occlusion 10](https://drive.google.com/file/d/1ryT92frW-jCgkbNFDcAATd8jeGEiubzS/view?usp=drive_link) |
+| 17 | [Videeo Output: occlusion 11](https://drive.google.com/file/d/1X7nF1e1Fsq2t2hGHPQgQRqFRl4JLvqty/view?usp=drive_link) |

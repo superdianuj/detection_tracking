@@ -221,7 +221,7 @@ def run():
         video = Video(input_path=input_path, output_path=output_path)
         show_or_write = (
             video.write
-            if args.save
+            if True
             else partial(video.show, downsample_ratio=args.downsample_ratio)
         )
 
